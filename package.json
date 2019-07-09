@@ -12,6 +12,7 @@
     "@material-ui/core": "^4.2.0",
     "meteor-node-stubs": "^0.4.1",
     "react": "^16.8.6",
+    "react-addons-pure-render-mixin": "^15.6.2",
     "react-dom": "^16.8.6",
     "valid-url": "^1.0.9"
   },
